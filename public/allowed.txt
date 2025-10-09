@@ -595,7 +595,6 @@ drier
 drift
 drill
 drink
-drive
 droit
 droll
 drone
